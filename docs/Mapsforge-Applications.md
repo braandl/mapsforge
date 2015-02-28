@@ -11,6 +11,7 @@
 | 5 | Bariloche Guide | City Guide | Proprietary/Free | Closed | https://play.google.com/store/apps/details?id=com.animus.guideapp https://itunes.apple.com/us/app/guia-bariloche/id900219349 |
 | 6 | Bike Computer | Routes and Tracks for Cycling | Proprietary/Free and Premium | Closed | https://play.google.com/store/apps/details?id=de.rooehler.bikecomputer |
 | 7 | Bladenight App | Tracking for inline skating events | Proprietary/Free | Closed | https://play.google.com/store/apps/details?id=fr.ocroquette.bladenight |
+| 28 | contagt | Android Indoor Navigation | Proprietary/Free | Closed | http://contagt.com |
 | 8 | Cruiser | Android map and navigation application | Proprietary/Free | Closed | http://wiki.openstreetmap.org/wiki/Cruiser |
 | 9 | c:geo | Geocaching | Apache 2.0/Free | Open | https://github.com/cgeo/ |
 | 10 | Geopaparazzi| Digital Field Mapping for geology and engineering with GIS data import | GPL3/Free | Open | http://www.geopaparazzi.eu |
